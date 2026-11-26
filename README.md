@@ -5,12 +5,10 @@ Addressing the Missing Satellite Galaxy Problem by identifying clusters of stars
 <img width="1455" height="811" alt="Screenshot 2026-08-17 at 3 10 42 PM" src="https://github.com/user-attachments/assets/6504c978-33da-4409-8839-797aefecfae2" />
 
 
-
-
 HDBSCAN Clustering
 
 
 <img width="564" alt="Screenshot 2025-06-20 at 4 26 00 PM" src="https://github.com/user-attachments/assets/906483f8-e9de-4af6-86c3-635358b5a425" />
 
 
-
+After applying additional filters, retained 12 candidate groups of stars with similar motions in the Milky Way’s outer halo.
